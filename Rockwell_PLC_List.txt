@@ -1,0 +1,24 @@
+Product name: 1747-L551/C C/13 - DC 3.54 
+Product name: 1756-L61/B LOGIX5561
+Product name: 1761-NET-ENI/D
+Product name: 1763-L16BWA B/14.00
+Product name: 1763-L16DWD B/16.00
+Product name: 1766-L32AWA B/15.00
+Product name: 1766-L32BWA B/15.00
+Product name: 1766-L32BWA B/16.00
+Product name: 1766-L32BWAA B/14.00
+Product name: 1766-L32BWAA B/15.00
+Product name: 1766-L32BWAA B/15.04
+Product name: 1766-L32BXB A/5.00
+Product name: 1766-L32BXB B/11.00
+Product name: 1766-L32BXBA B/11.00
+Product name: 1766-L32BXBA B/15.00
+Product name: 1766-L32BXBA B/16.00
+Product name: 1766-L32BXBA C/21.02
+Product name: 1769-L16ER/B LOGIX5316ER
+Product name: 1769-L18ER/A LOGIX5318ER
+Product name: 1769-L18ER/B LOGIX5318ER
+Product name: 1769-L19ER-BB1B/A LOGIX5319ER
+Product name: 1769-L30ER/A LOGIX5330ER
+Product name: 1769-L33ER/A LOGIX5333ER
+Product name: 1769-L33ERMS/A LOGIX5370SAFETY

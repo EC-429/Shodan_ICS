@@ -1,0 +1,94 @@
+Module: 01_MV_Boring_1
+Module: 6ES7 151-8AB01-0AB0  v.0.5
+Module: 6ES7 151-8AB01-0AB0  v.0.7
+Module: 6ES7 313-5BG04-0AB0  v.0.5
+Module: 6ES7 314-1AG13-0AB0  v.0.1
+Module: 6ES7 314-1AG13-0AB0  v.0.3
+Module: 6ES7 314-6BG03-0AB0  v.0.2
+Module: 6ES7 314-6EH04-0AB0  v.0.5
+Module: 6ES7 315-2AH14-0AB0  v.0.5
+Module: 6ES7 315-2AH14-0AB0  v.0.6
+Module: 6ES7 315-2EH14-0AB0  v.0.3
+Module: 6ES7 317-2AJ10-0AB0  v.0.5
+Module: 6ES7 317-2EK14-0AB0  v.0.6
+Module: 6ES7 671-5EF01-0YA0  v.0.4
+Module: CPU 314
+Module: CPU 314C-2 PN/DP
+Module: CPU 314C-2 PtP
+Module: CPU 315-2 DP
+Module: CPU 315-2 PN/DP
+Module: CPU 315-2PN/DP
+Module: CPU 317-2 DP
+Module: CPU 317-2 PN/DP
+Module: CPU315-2 PN/DP
+Module: IM151-8 PN/DP CPU
+Module: SIMATIC, S7-200
+Module: WinAC MP 277
+Module name: CPU 313C
+Module name: CPU 314
+Module name: CPU 314C-2 PN/DP
+Module name: CPU 314C-2 PtP
+Module name: CPU 315-2 DP
+Module name: CPU 315-2 PN/DP
+Module name: CPU 315-2PN/DP
+Module name: CPU 317-2 DP
+Module name: CPU 317-2 PN/DP
+Module name: CPU315-2 PN/DP
+Module name: CPU 1511-1 PN
+Module name: CPU 1513-1 PN
+Module name: CPU 1515-2 PN
+Module name: CPU 1516-3 PN
+Module name: CPU 1517-3 PN
+Module name: CPU 1518-4 PN
+Module name: SIMATIC S7-300 CPU 312 
+Module name: SIMATIC S7-300 CPU 314
+Module name: SIMATIC S7-300 CPU 315-2 PN/DP
+Module name: SIMATIC S7-300 CPU 315-2 DP
+Module name: SIMATIC S7-300 CPU 317- 2 DP
+Module name: SIMATIC S7-300 CPU 317-2 PN/DP
+Module name: SIMATIC S7-300 CPU 319-3 PN/DP
+Module name: SIMATIC S7-300 CPU 312C
+Module name: SIMATIC S7-300 CPU 313C
+Module name: SIMATIC S7-300 CPU 313C-2 PtP
+Module name: SIMATIC S7-300 CPU 313C-2 DP
+Module name: SIMATIC S7-300 CPU 314C-2 PtP
+Module name: SIMATIC S7-300 CPU 314C-2 DP
+Module name: SIMATIC S7-300 CPU 314C-2 PN/DP
+Module name: SIMATIC S7-300 CPU 315F-2 DP
+Module name: SIMATIC S7-300 CPU 315F-2 PN/DP 
+Module name: SIMATIC S7-300 CPU 317F-2 DP 
+Module name: SIMATIC S7-300 CPU 317F-2 PN/DP 
+Module name: SIMATIC S7-300 CPU 319F-3 PN/DP
+Module name: SIMATIC S7-300 CPU 315T-3 PN/DP
+Module name: SIMATIC S7-300 CPU 317T-3 PN/DP
+Module name: SIMATIC S7-300 CPU 317TF-3 PN/DP
+Module name: Engine Gateway
+Module name: IM151-8 PN/DP CPU
+Module name: PLC_1
+Module name: SIMATIC, S7-200
+Module name: WinAC MP 277
+Module type: CPU 313C
+Module type: CPU 314
+Module type: CPU 314C-2 PN/DP
+Module type: CPU 314C-2 PtP
+Module type: CPU 315-2 DP
+Module type: CPU 315-2 PN/DP
+Module type: CPU 317-2 DP
+Module type: CPU 317-2 PN/DP
+Module type: IM151-8 PN/DP CPU
+Module type: WinAC MP 277
+Module Name: SIMATIC, S7 1200
+Module Name: SIMATIC, S7 1500
+Module Name: SIMATIC, S7 300
+Module Name: SIMATIC, S7 400
+Module Name: SIMATIC, ET 200SP
+Module Name: SIMATIC, ET 200SP Open Controller
+Module Name: SIMATIC, ET 200pro
+Module Name: SIMATIC, S7-1500
+Module Name: SIMATIC, ODK 1500S
+Module Name: SIMATIC, WinAC
+Module Name: SIMATIC ET 200SP Open Controller CPU 1515SP PC
+Module Name: SIMATIC ET 200SP CPU 1510SP F-1 PN
+Module Name: SIMATIC ET 200SP CPU 1512SP F-1 PN
+Module Name: SIMATIC ET 200SP CPU 1510SP-1 PN
+Module Name: SIMATIC ET 200SP CPU 1512SP-1 PN

@@ -1,0 +1,15 @@
+PLC name: Dampkedel
+PLC name: ET200S_PN_02
+PLC name: R51.0 Thies
+PLC name: R54.0 BASE
+PLC name: S7300/ET200M station_1
+PLC name: SIGO_09
+PLC name: SIMATIC 300
+PLC name: SIMATIC 300 Podloga
+PLC name: SIMATIC 300 Station
+PLC name: SIMATIC 300(0)
+PLC name: SIMATIC 300(1)
+PLC name: SIMATIC HMI Station
+PLC name: Sudhaus
+PLC name: Technodrome
+PLC name: Water Plant 2
