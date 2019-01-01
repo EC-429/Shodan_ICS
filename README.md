@@ -13,7 +13,7 @@ This project is coded in python3 and requires the following packages:<br>
 `sys               --> installation: pip3 install sys`<br>
 `colorama          --> installation: pip3 install colorama`<br><br>
 
-Download and run CyberNewsReport from command line:<br>
+Download and run Shodan_ICS from command line:<br>
 `git clone https://github.com/rpanov/Shodan_ICS.git`<br>
 `$python3 IPEnumeration.py [shodan search]`<br>
 `$python3 IPEnumeration_colored.py [shodan search]`<br>
