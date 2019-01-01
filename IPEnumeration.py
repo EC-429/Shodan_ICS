@@ -2,7 +2,7 @@ import shodan
 import sys
 
 # Configuration
-API_KEY = "kYSjmGrndxVfIx6LhIGQ5XW1kXo2oPsV"
+API_KEY = "[Shodan API Key]"
 
 # Input validation
 if len(sys.argv) == 1:
