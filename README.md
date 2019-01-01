@@ -14,8 +14,9 @@ This project is coded in python3 and requires the following packages:<br>
 `colorama          --> installation: pip3 install colorama`<br><br>
 
 Download and run CyberNewsReport from command line:<br>
-`git clone https://github.com/rpanov/CyberNewsReport.git`<br>
-`$python3 NewsReport.py -h`<br>
+`git clone https://github.com/rpanov/Shodan_ICS.git`<br>
+`$python3 IPEnumeration.py [shodan search]`<br>
+`$python3 IPEnumeration_colored.py [shodan search]`<br>
 
 Additionally, one can use the my compiled list of Shodan searches (i.e. Shodan_ICS_Searches.txt file) and the supplemental Vendor/product lists, to search generic ICS or SCADA assets:
 - Shodan.io web interface 
