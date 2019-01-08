@@ -5,7 +5,7 @@ import sys
 from time import sleep
 
 # 2. API KEY Configuration
-API_KEY = "kYSjmGrndxVfIx6LhIGQ5XW1kXo2oPsV"
+API_KEY = "[INSERT KEY]"
 
 
 # 3.
